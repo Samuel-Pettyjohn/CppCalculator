@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp Calculator", "Cpp Calculator\Cpp Calculator.vcxproj", "{CBCB50AD-829A-4740-907E-389BD32039FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Debug|x64.ActiveCfg = Debug|x64
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Debug|x64.Build.0 = Debug|x64
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Debug|x86.Build.0 = Debug|Win32
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Release|x64.ActiveCfg = Release|x64
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Release|x64.Build.0 = Release|x64
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Release|x86.ActiveCfg = Release|Win32
+		{CBCB50AD-829A-4740-907E-389BD32039FB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {931AF360-C41B-4C2C-BF69-4373B95B418A}
+	EndGlobalSection
+EndGlobal
